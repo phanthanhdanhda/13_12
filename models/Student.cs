@@ -8,5 +8,6 @@ namespace _2ndgit.models
 {
     class Student
     {
+        public int MSSV { get; set; }
     }
 }
